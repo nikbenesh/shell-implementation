@@ -8,6 +8,6 @@ This is a unix terminal shell implementation in C
 
 ## How to run in the terminal:
 ``
-make \
+make  
 ./mysh
 ``
