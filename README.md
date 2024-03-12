@@ -7,7 +7,9 @@ This is a unix terminal shell implementation in C
 Это реализация командной строки unix на C
 
 ## How to run in the terminal:
-``
-make  <br />
+`
+make 
+`
+`
 ./mysh
-``
+`
